@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1,TV Brasil
+https://tvbrasil-stream.ebc.com.br/EBC_HD.m3u8
+#EXTINF:-1,Canal Gov
+https://canalgov-stream.ebc.com.br/GOV.m3u8
+#EXTINF:-1,TV Novo Tempo
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+#EXTINF:-1,Rede Super
+https://tv02.zas.media:1936/redesuper/redesuper/playlist.m3u8
+#EXTINF:-1,Record News
+https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
+#EXTINF:-1,SBT News
+https://sbtnews.maissbt.com/3.m3u8
+#EXTINF:-1,Rede Brasil
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
+#EXTINF:-1,CaTVe
+https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
+#EXTINF:-1,RedeTV Paraná
+https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+#EXTINF:-1,Rádio Novo Tempo
+https://stream.live.novotempo.com/radio/smil:radionovotempo.smil/playlist.m3u8
